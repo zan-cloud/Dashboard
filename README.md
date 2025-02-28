@@ -11,7 +11,7 @@ Proyek ini bertujuan untuk menganalisis tren pembelian pelanggan dalam 6 bulan t
 ## 🚀 Link Dashboard
 
 Aplikasi sudah berhasil dideploy di **Streamlit Cloud** dan bisa diakses melalui:  
-🔗 [https://dashboard-jlhvepdg4r9rqppxvyzahs.streamlit.app/](https://dashboard-jlhvepdg4r9rqppxvyzahs.streamlit.app/)
+🔗 [https://zan-cloud-dashboard-dashboarddashboard-ch1kzt.streamlit.app/](https://zan-cloud-dashboard-dashboarddashboard-ch1kzt.streamlit.app/)
 
 ## 📂 Struktur Folder
 
